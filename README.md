@@ -8,10 +8,14 @@ This repository contains MATLAB scripts and a Jupyter notebook developed to anal
 
 The code enables:
 
-- Particle shape geometric measurement from μP-STEM HAADF images 
+- Particle shape geometric measurement from μP-STEM HAADF images  
 - 4D-STEM virtual dark field (VDF)–based particle masking  
-- Azimuthal integration of lattice shear and rotation maps to calculate disclination misfit angle
+- Azimuthal integration of lattice shear and rotation maps to calculate disclination misfit angle  
 - Strain map post-processing and visualization  
+
+The strain-mapping results processed in this repository are generated using the method described in:
+
+Yuan, Renliang; Zhang, Jiong;  Zuo, Jian-Min "Lattice strain mapping using circular Hough transform for electron diffraction disk detection."  Ultramicroscopy *207*, **2019**, 112837.  (https://doi.org/10.1016/j.ultramic.2019.112837)
 
 ---
 
@@ -21,8 +25,7 @@ This repository accompanies the dataset:
 
 Lin, Oliver; Lyu, Zhiheng; Ni, Hsu-Chih; Wang, Xiaokang; Jia, Yetong; Hwang, Chu-Yun; Yao, Lehan; Mandal, Sohini; Zuo, Jian-Min; Chen, Qian (2026).  Raw and Processed 4D-STEM Datasets for *"Each Grain Different in Its Own Way: Size-Dependent Pseudosymmetry in Five-Twinned Nanoparticles Mapped by 4D-STEM."*
 
-Dataset DOI:  
-https://doi.org/10.13012/B2IDB-3832353_V1
+Dataset DOI:  https://doi.org/10.13012/B2IDB-3832353_V1
 
 Example data structure and sample files are available at the DOI above.
 
