@@ -1,4 +1,4 @@
-# Decahedral-Strain-Mapping
+# Decahedral-strain-mapping
 
 ## Overview
 
