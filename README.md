@@ -1,4 +1,4 @@
-# Decahedral-strain-mapping
+# Decahedral nanoparticle 4D-STEM strain mapping
 
 ## Overview
 
